@@ -2,11 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Dhaka
-tags: example-tag
-level: 0
-
-region: Middle East
-
+site_side: true
+tags: dhaka
+level: region: South Asia
+currency: BDT
 auto-migrated: 1
 
 ---
