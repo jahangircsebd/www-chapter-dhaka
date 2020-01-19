@@ -2,14 +2,23 @@
 
 layout: col-sidebar
 title: OWASP Dhaka
-tags: example-tag
+tags: dhaka
 level: 0
 
-region: Middle East
+region: Asia
 
 auto-migrated: 1
 
+currency: bdt
+
+
 ---
+
+<!-- rebuild -->
+
+OWASP Dhaka
+-------------
+Welcome to the Dhaka Chapter homepage. The chapter board is <a href="mailto:jahangir.alam@owasp.org">Md Jahangir Alam</a>, <a href="mailto:fahima.khanam@owasp.org">Fahima Khanam</a>, Mohammad Makchudul Alam, Md. Ashraful Alam, Md. Masud Rana and Zabedul Haque Chawdhury. Follow chapter news on [Facebook](https://www.facebook.com/OWASPDhaka).
 
 
 <!-- Standard Chapter Page Template
