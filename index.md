@@ -5,7 +5,7 @@ title: OWASP Dhaka
 tags: example-tag
 level: 0
 
-region: Middle East
+region: Asia/Dhaka
 
 auto-migrated: 1
 
